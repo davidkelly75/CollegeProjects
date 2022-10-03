@@ -1,7 +1,8 @@
-
 /*
-Copyright (C) 2014  Frank Duignan
 
+Demonstration video: https://youtu.be/t2jz5UvljHI
+
+Copyright (C) 2014  Frank Duignan
 Modified by David Kelly
 
 This program is free software; you can redistribute it and/or
